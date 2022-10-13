@@ -1,0 +1,2 @@
+Z = np.zeros(15)
+print(Z)
