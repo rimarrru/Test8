@@ -1,0 +1,3 @@
+Z = np.zeros((6,6))
+Z += np.arange(6)
+print(Z)
